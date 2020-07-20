@@ -18,18 +18,18 @@ A mini project on image generation using CNNs.
 
 ## Some examples generated from the model
 <p align="center">
-  <img src="b2c2_example_1.jpg?raw=true" alt="b2c2 example 1" width=60%>
+  <img src="b2c2_example_1.JPG?raw=true" alt="b2c2 example 1" width=60%>
 </p>
 <p align="center">
 
 <p align="center">
-  <img src="b2c2_example_2.jpg?raw=true" alt="b2c2 example 2" width=60%>
+  <img src="b2c2_example_2.JPG?raw=true" alt="b2c2 example 2" width=60%>
 </p>
 <p align="center">
 
 
 <p align="center">
-  <img src="b2c2_example_3.jpg?raw=true" alt="b2c2 example 3" width=60%>
+  <img src="b2c2_example_3.JPG?raw=true" alt="b2c2 example 3" width=60%>
 </p>
 <p align="center">
 
