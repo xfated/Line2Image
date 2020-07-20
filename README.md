@@ -7,7 +7,7 @@ A mini project on image generation using CNNs.
 1. Use the VGG16 network as a feature extractor to compare the generated image and the original image.
 1. Use the root mean squared distance between the features as a loss. 
 
-## Stuff I did
+## Some more details
 * Used a python generator to preprocess the original image to create training images. 
 * Adapted the U-Net model infrastructure with the addition of some batch normalization layers.
 
